@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/paymentform/static/js/main.9b9a9823.chunk.js",
+    "main.js.map": "/paymentform/static/js/main.9b9a9823.chunk.js.map",
+    "runtime~main.js": "/paymentform/static/js/runtime~main.b5945f46.js",
+    "runtime~main.js.map": "/paymentform/static/js/runtime~main.b5945f46.js.map",
+    "static/js/2.4dd02531.chunk.js": "/paymentform/static/js/2.4dd02531.chunk.js",
+    "static/js/2.4dd02531.chunk.js.map": "/paymentform/static/js/2.4dd02531.chunk.js.map",
+    "index.html": "/paymentform/index.html",
+    "precache-manifest.4d5fd01958873ead5afe7c6b2ac11ca5.js": "/paymentform/precache-manifest.4d5fd01958873ead5afe7c6b2ac11ca5.js",
+    "service-worker.js": "/paymentform/service-worker.js"
+  }
+}
